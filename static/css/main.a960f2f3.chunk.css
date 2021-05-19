@@ -1,0 +1,2 @@
+.TodoList{-webkit-flex-direction:column;flex-direction:column;grid-gap:10px 0;gap:10px 0;-webkit-padding-start:0;padding-inline-start:0}.Todo,.TodoList{display:-webkit-flex;display:flex}.Todo{border:1px solid #d3d3d3;padding:10px;list-style:none;-webkit-justify-content:space-between;justify-content:space-between}.Todo__title{font-weight:600}.Todo__completed{margin-left:10px}.Todo__completed--true{color:#4fb435}.Todo__completed--false{color:#e6443f}
+/*# sourceMappingURL=main.a960f2f3.chunk.css.map */
